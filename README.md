@@ -1,4 +1,4 @@
-## Traducteur du Langage des Signes
+## Poker Game
 
 Ce projet a été réalisé lors de ma première année de Classe Préparatoire aux Grandes Écoles (CPGE) MPSI au Lycée Saint Louis à Paris.
 
